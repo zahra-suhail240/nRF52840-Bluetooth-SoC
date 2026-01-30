@@ -5,7 +5,7 @@
     {
       "core": "NRFDL_DEVICE_CORE_APPLICATION",
       "operation": {
-        "chip_erase_mode": "ERASE_RANGES_TOUCHED_BY_FIRMWARE",
+        "chip_erase_mode": "ERASE_ALL",
         "firmware": {
           "file": "C:\\Users\\zahra\\Desktop\\nRF52840-Bluetooth-SoC\\test-app\\build\\merged.hex"
         },

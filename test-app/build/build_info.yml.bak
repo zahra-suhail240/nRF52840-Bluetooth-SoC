@@ -17,6 +17,6 @@ cmake:
      - 'C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/_sysbuild/empty.conf'
 version: '0.1.0'
 west:
-  command: 'C:\ncs\toolchains\66cdf9b75e\opt\bin\Scripts\west build --build-dir c:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build c:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app --pristine --board nrf52840dk/nrf52840 -- -DDEBUG_THREAD_INFO=On -DCONFIG_DEBUG_THREAD_INFO=y -Dtest-app_DEBUG_THREAD_INFO=On'
+  command: 'C:\ncs\toolchains\66cdf9b75e\opt\bin\Scripts\west build --build-dir c:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build c:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app --pristine --board nrf52840dk/nrf52840 -- -DCONFIG_DEBUG_THREAD_INFO=y'
   topdir: 'c:\ncs\v3.2.0'
   version: '1.4.0'
