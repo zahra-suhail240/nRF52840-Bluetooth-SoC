@@ -1,8 +1,8 @@
-C:\Users\zahra\Desktop\lesson3.1_blinky\ncs-fund\l2\l2_e2\build\Kconfig\Kconfig.sysbuild.modules
-C:\Users\zahra\Desktop\lesson3.1_blinky\ncs-fund\l2\l2_e2\build\Kconfig\boards\Kconfig.nrf52840dk
-C:\Users\zahra\Desktop\lesson3.1_blinky\ncs-fund\l2\l2_e2\build\Kconfig\boards\Kconfig.sysbuild
-C:\Users\zahra\Desktop\lesson3.1_blinky\ncs-fund\l2\l2_e2\build\Kconfig\soc\Kconfig.soc
-C:\Users\zahra\Desktop\lesson3.1_blinky\ncs-fund\l2\l2_e2\build\Kconfig\soc\Kconfig.sysbuild
+C:\Users\zahra\Desktop\nRF52840-Bluetooth-SoC\controlling-LED-interrupt\l2_e2\build\Kconfig\Kconfig.sysbuild.modules
+C:\Users\zahra\Desktop\nRF52840-Bluetooth-SoC\controlling-LED-interrupt\l2_e2\build\Kconfig\boards\Kconfig.nrf52840dk
+C:\Users\zahra\Desktop\nRF52840-Bluetooth-SoC\controlling-LED-interrupt\l2_e2\build\Kconfig\boards\Kconfig.sysbuild
+C:\Users\zahra\Desktop\nRF52840-Bluetooth-SoC\controlling-LED-interrupt\l2_e2\build\Kconfig\soc\Kconfig.soc
+C:\Users\zahra\Desktop\nRF52840-Bluetooth-SoC\controlling-LED-interrupt\l2_e2\build\Kconfig\soc\Kconfig.sysbuild
 C:\ncs\v3.2.0\nrf\soc\nordic\Kconfig.soc
 C:\ncs\v3.2.0\nrf\soc\nordic\Kconfig.sysbuild
 C:\ncs\v3.2.0\nrf\soc\nordic\common\vpr\Kconfig.sysbuild

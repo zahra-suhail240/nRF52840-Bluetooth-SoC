@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/subsys/pm/policy/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/subsys/pm/policy/cmake_install.cmake")
 endif()
 

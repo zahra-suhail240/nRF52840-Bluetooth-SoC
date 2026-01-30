@@ -1,0 +1,13 @@
+# Target labels
+ test-app
+# Source files and their labels
+C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/_sysbuild/sysbuild/images/CMakeFiles/test-app
+C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/_sysbuild/sysbuild/images/CMakeFiles/test-app.rule
+C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/_sysbuild/sysbuild/images/CMakeFiles/test-app-complete.rule
+C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/_sysbuild/sysbuild/images/test-app-prefix/src/test-app-stamp/test-app-build.rule
+C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/_sysbuild/sysbuild/images/test-app-prefix/src/test-app-stamp/test-app-configure.rule
+C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/_sysbuild/sysbuild/images/test-app-prefix/src/test-app-stamp/test-app-download.rule
+C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/_sysbuild/sysbuild/images/test-app-prefix/src/test-app-stamp/test-app-install.rule
+C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/_sysbuild/sysbuild/images/test-app-prefix/src/test-app-stamp/test-app-mkdir.rule
+C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/_sysbuild/sysbuild/images/test-app-prefix/src/test-app-stamp/test-app-patch.rule
+C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/_sysbuild/sysbuild/images/test-app-prefix/src/test-app-stamp/test-app-update.rule

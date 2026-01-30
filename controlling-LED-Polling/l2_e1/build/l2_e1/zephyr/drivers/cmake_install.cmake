@@ -39,66 +39,66 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/disk/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/disk/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/firmware/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/firmware/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/interrupt_controller/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/interrupt_controller/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/misc/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/misc/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/pcie/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/pcie/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/usb/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/usb/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/usb_c/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/usb_c/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/clock_control/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/clock_control/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/console/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/console/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/gpio/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/gpio/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/pinctrl/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/pinctrl/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/serial/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/serial/cmake_install.cmake")
 endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/drivers/timer/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/drivers/timer/cmake_install.cmake")
 endif()
 

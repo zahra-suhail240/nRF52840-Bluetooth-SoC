@@ -1,5 +1,5 @@
 @echo off
-cd /D C:\Users\zahra\Desktop\lesson3.1_blinky\ncs-fund\l2\l2_e2\build\_sysbuild || (set FAIL_LINE=2& goto :ABORT)
+cd /D C:\Users\zahra\Desktop\nRF52840-Bluetooth-SoC\controlling-LED-interrupt\l2_e2\build\_sysbuild || (set FAIL_LINE=2& goto :ABORT)
 C:\ncs\toolchains\66cdf9b75e\opt\bin\cmake.exe -E echo bt-ll-sw-split || (set FAIL_LINE=3& goto :ABORT)
 C:\ncs\toolchains\66cdf9b75e\opt\bin\cmake.exe -E echo cdc-acm-console || (set FAIL_LINE=4& goto :ABORT)
 C:\ncs\toolchains\66cdf9b75e\opt\bin\cmake.exe -E echo ci-shell || (set FAIL_LINE=5& goto :ABORT)

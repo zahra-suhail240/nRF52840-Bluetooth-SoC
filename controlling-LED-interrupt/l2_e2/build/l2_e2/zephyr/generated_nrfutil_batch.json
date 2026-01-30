@@ -7,7 +7,7 @@
       "operation": {
         "chip_erase_mode": "ERASE_ALL",
         "firmware": {
-          "file": "C:\\Users\\zahra\\Desktop\\lesson3.1_blinky\\ncs-fund\\l2\\l2_e2\\build\\merged.hex"
+          "file": "C:\\Users\\zahra\\Desktop\\nRF52840-Bluetooth-SoC\\controlling-LED-interrupt\\l2_e2\\build\\merged.hex"
         },
         "type": "program",
         "verify": "VERIFY_READ"

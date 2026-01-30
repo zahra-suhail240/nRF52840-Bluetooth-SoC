@@ -1,7 +1,7 @@
 default: l2_e2
-build_dir: C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e2/build
+build_dir: C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-interrupt/l2_e2/build
 domains:
   - name: l2_e2
-    build_dir: C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e2/build/l2_e2
+    build_dir: C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-interrupt/l2_e2/build/l2_e2
 flash_order:
   - l2_e2

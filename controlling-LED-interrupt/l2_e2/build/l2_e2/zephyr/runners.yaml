@@ -17,7 +17,7 @@ config:
   board_dir: C:/ncs/v3.2.0/zephyr/boards/nordic/nrf52840dk
   # Build outputs:
   elf_file: zephyr.elf
-  hex_file: C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e2/build/merged.hex
+  hex_file: C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-interrupt/l2_e2/build/merged.hex
   bin_file: zephyr.bin
   # Host tools:
   gdb: C:/ncs/toolchains/66cdf9b75e/opt/zephyr-sdk/arm-zephyr-eabi/bin/arm-zephyr-eabi-gdb.exe

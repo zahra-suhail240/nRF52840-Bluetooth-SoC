@@ -1,7 +1,7 @@
 cmake:
   application:
-    configuration-dir: 'C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1'
-    source-dir: 'C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1'
+    configuration-dir: 'C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1'
+    source-dir: 'C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1'
   board:
     name: 'nrf52840dk'
     path:
@@ -37,11 +37,11 @@ cmake:
   kconfig:
     files:
      - 'C:/ncs/v3.2.0/zephyr/boards/nordic/nrf52840dk/nrf52840dk_nrf52840_defconfig'
-     - 'C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/prj.conf'
-     - 'C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/misc/generated/extra_kconfig_options.conf'
-     - 'C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/build/l2_e1/zephyr/.config.sysbuild'
+     - 'C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/prj.conf'
+     - 'C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/misc/generated/extra_kconfig_options.conf'
+     - 'C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/build/l2_e1/zephyr/.config.sysbuild'
     user-files:
-     - 'C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e1/prj.conf'
+     - 'C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-Polling/l2_e1/prj.conf'
   toolchain:
     name: 'zephyr'
     path: 'C:/ncs/toolchains/66cdf9b75e/opt/zephyr-sdk'

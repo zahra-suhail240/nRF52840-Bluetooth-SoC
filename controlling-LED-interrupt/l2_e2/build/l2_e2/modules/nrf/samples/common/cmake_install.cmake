@@ -39,6 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("C:/Users/zahra/Desktop/lesson3.1_blinky/ncs-fund/l2/l2_e2/build/l2_e2/modules/nrf/samples/common/mcumgr_bt_ota_dfu/cmake_install.cmake")
+  include("C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/controlling-LED-interrupt/l2_e2/build/l2_e2/modules/nrf/samples/common/mcumgr_bt_ota_dfu/cmake_install.cmake")
 endif()
 

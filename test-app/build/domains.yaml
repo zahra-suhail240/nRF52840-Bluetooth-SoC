@@ -1,0 +1,7 @@
+default: test-app
+build_dir: C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build
+domains:
+  - name: test-app
+    build_dir: C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/build/test-app
+flash_order:
+  - test-app
