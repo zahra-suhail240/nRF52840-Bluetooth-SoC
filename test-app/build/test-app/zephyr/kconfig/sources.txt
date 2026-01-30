@@ -1,3 +1,4 @@
+C:\Users\zahra\Desktop\nRF52840-Bluetooth-SoC\test-app\Kconfig
 C:\Users\zahra\Desktop\nRF52840-Bluetooth-SoC\test-app\build\test-app\Kconfig\Kconfig.dts
 C:\Users\zahra\Desktop\nRF52840-Bluetooth-SoC\test-app\build\test-app\Kconfig\Kconfig.modules
 C:\Users\zahra\Desktop\nRF52840-Bluetooth-SoC\test-app\build\test-app\Kconfig\Kconfig.shield
@@ -392,7 +393,6 @@ C:\ncs\v3.2.0\nrfxlib\nrf_fuel_gauge\Kconfig
 C:\ncs\v3.2.0\nrfxlib\nrf_modem\Kconfig
 C:\ncs\v3.2.0\nrfxlib\nrf_rpc\Kconfig
 C:\ncs\v3.2.0\nrfxlib\openthread\Kconfig
-C:\ncs\v3.2.0\zephyr\Kconfig
 C:\ncs\v3.2.0\zephyr\Kconfig.constants
 C:\ncs\v3.2.0\zephyr\Kconfig.zephyr
 C:\ncs\v3.2.0\zephyr\arch\Kconfig
