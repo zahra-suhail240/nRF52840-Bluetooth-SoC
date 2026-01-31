@@ -76,6 +76,9 @@ CMAKE_VERBOSE_MAKEFILE:BOOL=FALSE
 CONFIG_DEBUG_THREAD_INFO:UNINITIALIZED=y
 
 //No help, variable specified on the command line.
+DEBUG_THREAD_INFO:UNINITIALIZED=On
+
+//No help, variable specified on the command line.
 WEST_PYTHON:UNINITIALIZED=C:/ncs/toolchains/66cdf9b75e/opt/bin/python.exe
 
 //Zephyr base
@@ -104,6 +107,9 @@ sysbuild_toplevel_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 sysbuild_toplevel_SOURCE_DIR:STATIC=C:/ncs/v3.2.0/zephyr/share/sysbuild
+
+//No help, variable specified on the command line.
+test-app_DEBUG_THREAD_INFO:UNINITIALIZED=On
 
 
 ########################

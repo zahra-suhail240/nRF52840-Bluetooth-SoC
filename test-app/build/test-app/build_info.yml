@@ -14,6 +14,7 @@ cmake:
      - 'C:/ncs/v3.2.0/zephyr/dts/bindings'
     files:
      - 'C:/ncs/v3.2.0/zephyr/boards/nordic/nrf52840dk/nrf52840dk_nrf52840.dts'
+     - 'C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/boards/nrf52840dk_nrf52840.overlay'
     include-dirs:
      - 'C:/ncs/v3.2.0/nrf/include'
      - 'C:/ncs/v3.2.0/nrf/dts/common'
@@ -34,6 +35,8 @@ cmake:
      - 'C:/ncs/v3.2.0/zephyr/dts/arm'
      - 'C:/ncs/v3.2.0/zephyr/dts/arc'
      - 'C:/ncs/v3.2.0/zephyr/dts'
+    user-files:
+     - 'C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/boards/nrf52840dk_nrf52840.overlay'
   kconfig:
     files:
      - 'C:/ncs/v3.2.0/zephyr/boards/nordic/nrf52840dk/nrf52840dk_nrf52840_defconfig'

@@ -28,4 +28,5 @@ empty_file.o: C:/ncs/v3.2.0/zephyr/misc/empty_file.c \
  C:/ncs/v3.2.0/zephyr/include/zephyr/dt-bindings/regulator/nrf5x.h \
  C:/ncs/v3.2.0/zephyr/dts/vendor/nordic/nrf52840_partition.dtsi \
  C:/ncs/v3.2.0/zephyr/boards/nordic/nrf52840dk/nrf52840dk_nrf52840-pinctrl.dtsi \
- C:/ncs/v3.2.0/zephyr/include/zephyr/dt-bindings/gpio/arduino-header-r3.h
+ C:/ncs/v3.2.0/zephyr/include/zephyr/dt-bindings/gpio/arduino-header-r3.h \
+ C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/test-app/boards/nrf52840dk_nrf52840.overlay
