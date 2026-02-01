@@ -1,0 +1,7 @@
+default: l5_e1
+build_dir: C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/UART/l5_e1/build
+domains:
+  - name: l5_e1
+    build_dir: C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/UART/l5_e1/build/l5_e1
+flash_order:
+  - l5_e1

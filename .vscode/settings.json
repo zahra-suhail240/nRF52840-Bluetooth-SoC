@@ -2,7 +2,8 @@
   "nrf-connect.applications": [
     "${workspaceFolder}\\controlling-LED-Polling\\l2_e1",
     "${workspaceFolder}\\controlling-LED-interrupt\\l2_e2",
-    "${workspaceFolder}\\test-app"
+    "${workspaceFolder}\\test-app",
+    "c:\\Users\\zahra\\Desktop\\nRF52840-Bluetooth-SoC\\UART\\l5_e1"
   ],
   "C_Cpp_Runner.cCompilerPath": "gcc",
   "C_Cpp_Runner.cppCompilerPath": "g++",
