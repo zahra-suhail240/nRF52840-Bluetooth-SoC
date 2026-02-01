@@ -1,0 +1,7 @@
+default: l7_e1
+build_dir: C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/threads/l7_e1/build
+domains:
+  - name: l7_e1
+    build_dir: C:/Users/zahra/Desktop/nRF52840-Bluetooth-SoC/threads/l7_e1/build/l7_e1
+flash_order:
+  - l7_e1
